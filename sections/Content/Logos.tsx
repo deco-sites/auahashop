@@ -61,7 +61,7 @@ function Logos(props: Props) {
                 height={300}
                 src={element.image}
                 alt={element.altText || ""}
-                class="max-w-full max-h-full"
+                class="max-w-full max-h-full w-full"
               />
             </div>
           </div>
